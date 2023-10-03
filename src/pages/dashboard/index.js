@@ -27,14 +27,62 @@ const Dashboard = () => {
               <div className="list-info">
                 <h6>Ambulance</h6>
                 <div>
-                  <span>Bus</span>
-                  <span>Medical</span>
+                  <span>Bus.</span>
+                  <span> Medical</span>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div className="image-container">
+                {/* <img src="" alt="" /> */}
+              </div>
+              <div className="list-info">
+                <h6>Car</h6>
+                <div>
+                  <span>Bus.</span>
+                  <span> Medical</span>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div className="image-container">
+                {/* <img src="" alt="" /> */}
+              </div>
+              <div className="list-info">
+                <h6>Tree </h6>
+                <div>
+                  <span>Bus.</span>
+                  <span> Medical</span>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div className="image-container">
+                {/* <img src="" alt="" /> */}
+              </div>
+              <div className="list-info">
+                <h6>Elextric pole</h6>
+                <div>
+                  <span>Bus.</span>
+                  <span> Medical</span>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div className="image-container">
+                {/* <img src="" alt="" /> */}
+              </div>
+              <div className="list-info">
+                <h6>Transport Agency</h6>
+                <div>
+                  <span>Bus.</span>
+                  <span> Medical</span>
                 </div>
               </div>
             </li>
           </ul>
         </section>
-        <section></section>
+        <section className="main-content"></section>
       </div>
     </>
   );
